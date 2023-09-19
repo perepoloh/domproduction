@@ -1,0 +1,2 @@
+# magazinanekdot
+laba1
