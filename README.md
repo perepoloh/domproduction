@@ -1,2 +1,1 @@
 # magazinanekdot
-laba1
